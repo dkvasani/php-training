@@ -19,6 +19,7 @@ $session_id='1'; //$session id
 				     beforeSubmit:function(){ 
 					
 					console.log('ttest');
+					     console.log('ttest');
 					$("#imageloadstatus").show();
 					 $("#imageloadbutton").hide();
 					 }, 
